@@ -1,6 +1,6 @@
-# Boas vindas ao Workshop de Git ✨
+# Workshop de Git do HackGrrrl ✨
 
-## Instruções para começar
+## Elaine Cruz 
 
 Abra [a página de instruções](/INSTRUCTIONS.md) que contém o passo a passo para esse workshop, você voltará a este arquivo no passo 4 das instruções.
 
@@ -12,7 +12,7 @@ Também delete esta sessão de instruções e modifique a primeira linha trocand
 
 Aqui você pode contar coisas que queira compartilhar sobre você, você pode dar destaque usando **negrito** ou *itálico*, listas sempre são úteis nesse momento:
 
-- Curso / Faculdade
+- Ciências da Computação - UFPE
 - Áreas de interesse
 - Hobbies
 
